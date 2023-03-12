@@ -1,4 +1,4 @@
-"CUDA_VISIBLE_DEVICES=0",
+"CUDA_VISIBLE_DEVICES": "0",
 "python3 ./train.py",
 "--output_dir=../models/",
 "--data_dir=./test",
